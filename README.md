@@ -21,4 +21,4 @@ The Movie Recommendation System is an AI-powered application designed to provide
 4. Scikit-learn
 5. NLTK
 6. Cosine Similarity
-Other dependencies listed in requirements.txt
+Other dependencies listed in requirements.txt  
